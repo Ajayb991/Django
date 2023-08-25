@@ -13,7 +13,7 @@ Step2 : Connect to your instance and follow steps to [ Install Python and Django
 
 Step3: Make a Dir and take a pull from GIT
 
-Step4: source venv/bin/activate ( make venv file active)
+Step4: Now run source venv/bin/activate ( make venv file active)
 
 Step5: Go to the actual path where you have your project details and run below commands,
 
