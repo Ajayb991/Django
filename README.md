@@ -1,4 +1,4 @@
-Step1 : Launch you Instance 
+Step1 : Launch an Instance 
 
 Step2 : Connect to your instance and follow steps to [ Install Python and Django ]
 
